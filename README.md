@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/RONSVER">
-    <img src="https://github.com/RONSVER/RONSVER/blob/main/assets/f3013e356a3829c077c84c321798982f.gif" alt="Header">
+    <img src="https://github.com/RONSVER/RONSVER/blob/main/assets/dfe6e4b7a03407f8fba6ee8cf54dbfee.gif" alt="Header">
   </a>
 </p>
 
