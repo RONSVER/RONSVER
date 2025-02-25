@@ -74,6 +74,10 @@
 
 <br/>
 
+## Github Stats
+
+<a href="http://www.github.com/RONSVER"><img src="https://github-readme-stats.vercel.app/api?username=RONSVER&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="RONSVER's GitHub stats" /></a>
+
 ## Follow me
 
 <div align="center">
@@ -82,11 +86,5 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>
-
-<br/>
-
-## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RONSVER&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
