@@ -77,8 +77,10 @@
 
 ## Github Stats
 
+<p align="center">
 <a href="http://www.github.com/RONSVER"><img src="https://github-readme-stats.vercel.app/api?username=RONSVER&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="RONSVER's GitHub stats" /></a>
 
+</p>
 ## Follow me
 
 <div align="center">
